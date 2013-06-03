@@ -10,7 +10,7 @@
 		</locale-config>
 		
 		<resource-bundle>
-			<base-name>messages</base-name>
+			<base-name>br.com.javamagazine.messages.messages</base-name>
 			<var>msg</var>
 		</resource-bundle>
 		

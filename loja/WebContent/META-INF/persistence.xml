@@ -7,8 +7,6 @@
 	
 	<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<!-- Classes de persistencia -->
-		<class>br.com.samantha.entities.Categoria</class>
-		<class>br.com.samantha.entities.Localizacao</class>
 		
 		<properties>
 			<!-- Configurações para ter acesso ao banco de dados -->

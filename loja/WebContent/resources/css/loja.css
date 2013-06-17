@@ -31,3 +31,24 @@ h2{
 	font-size: 15px;
 	color: #F4A460;
 }
+
+.lista-conteudo{
+	border-style: dotted;
+	border-width: 1px;
+	font-size: 12px;
+}
+
+.titulo-produto{
+	font-size: 14px;
+	font-style: bold;
+	display: block;
+}
+
+.resumo-produto{
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.coluna{
+	vertical-align: text-top;
+}
